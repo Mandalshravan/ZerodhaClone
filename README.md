@@ -32,6 +32,6 @@ OneStock is a modern, responsive, and feature-rich full-stack trading platform b
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rishabhraj-07/OneStock.git
-cd OneStock
+git clone https://github.com/Mandalshravan/ZerodhaClone.git
+cd ZerodhaClone
 
